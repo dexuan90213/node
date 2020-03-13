@@ -1,3 +1,3 @@
-var logger = require('./logger')
+const log = require('./logger')
 
-logger.log('message')
+log('message')
